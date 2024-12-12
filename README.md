@@ -7,8 +7,8 @@
 #### [240912 레포트](https://github.com/SHAhn1111/gamepgm/tree/main/0912)✍🏻
 #### [240919 레포트](https://github.com/SHAhn1111/gamepgm/tree/main/0919)✍🏻
 #### [240926 레포트](https://github.com/SHAhn1111/gamepgm/tree/main/0926)✍🏻
-#### [241010 C++ 게임 업그레이드 발표 업로드 레포트](https://github.com/SHAhn1111/gamepgm/tree/main/1010발표)📢
+#### [241010 C++ 게임 업그레이드 발표 업로드 레포트](https://github.com/SHAhn1111/gamepgm/tree/main/1010%20발표)📢
 #### [241010 레포트 - 업그레이드 한 발표 C++에서 기능 더 추가하기](https://github.com/SHAhn1111/gamepgm/tree/main/1010)📢
 ## 발표👩🏻‍💻
-#### [241010 C++ 게임 업그레이드 발표](https://github.com/SHAhn1111/gamepgm/tree/main/1010발표)👂🏻
+#### [241010 C++ 게임 업그레이드 발표](https://github.com/SHAhn1111/gamepgm/tree/main/1010%20발표)👂🏻
 #### [241212 유니티 프로젝트 발표](https://github.com/SHAhn1111/gamepgm/tree/main/1212)👂🏻
